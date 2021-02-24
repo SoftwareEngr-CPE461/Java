@@ -1,4 +1,4 @@
-# Java
+# Java :coffee:
 [![forthebadge](https://img.shields.io/badge/Built%20with-Java-orange)](https://shields.io)
 
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
